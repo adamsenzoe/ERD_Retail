@@ -1,1 +1,1 @@
-# ERD_Retail
+Tugas Online Retail Application Database (Skilvul)
